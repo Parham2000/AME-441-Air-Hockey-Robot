@@ -1,5 +1,5 @@
 # AME-441-Air-Hockey-Robot
 
-This repository will be divided into two sections: 
+This repository will be divided into two sections: C++ code for the computer vision system, and arduino code for interfacing with the robot
 
-    C++ code for the computer vision system, and arduino code for interfacing with the robot
+Feel free to add your code.
